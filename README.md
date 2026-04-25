@@ -8,3 +8,5 @@ Simple calculator using Python.
 
 ## Run
 python basic_calculator.py
+
+![Calculator](screenshot.png)
